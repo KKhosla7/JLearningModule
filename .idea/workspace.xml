@@ -646,7 +646,11 @@
       <created>1389685723784</created>
       <updated>1389685723784</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit&#10;">
+      <created>1389685746890</created>
+      <updated>1389685746890</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
