@@ -11,6 +11,8 @@ public class Test {
         System.out.println("Easy Way: " +  (47 * 10)  );
         System.out.println("Tough Way: " +  ( ( 47 << 6 ) + (47 << 5) + ( 47 << 2 ))  );
         System.out.println("" + (3 | 5) );
+
+
     }
 
 }
